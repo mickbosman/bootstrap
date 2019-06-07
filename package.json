@@ -1,0 +1,29 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "Een trianing met Bootsrap op een pagina van Lord of the Rings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theo-denBlanken/demoLOTR.git"
+  },
+  "keywords": [
+    "Bootstrap",
+    "demo",
+    "LotR"
+  ],
+  "author": "Theo den Blanken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Theo-denBlanken/demoLOTR/issues"
+  },
+  "homepage": "https://github.com/Theo-denBlanken/demoLOTR#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "jquery-match-height": "^0.7.2"
+  }
+}
