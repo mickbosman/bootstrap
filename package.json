@@ -1,7 +1,7 @@
 {
   "name": "lotr",
   "version": "1.0.0",
-  "description": "Een trianing met Bootsrap op een pagina van Lord of the Rings",
+  "description": "Bootstrap training.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
