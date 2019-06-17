@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Theo-denBlanken/demoLOTR.git"
+    "url": "git+https://github.com/mickbosman/demoLOTR.git"
   },
   "keywords": [
     "Bootstrap",
     "demo",
     "LotR"
   ],
-  "author": "Theo den Blanken",
+  "author": "Mick Bosman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Theo-denBlanken/demoLOTR/issues"
+    "url": "https://github.com/mickbosman/demoLOTR/issues"
   },
-  "homepage": "https://github.com/Theo-denBlanken/demoLOTR#readme",
+  "homepage": "https://github.com/mickbosman/demoLOTR#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
